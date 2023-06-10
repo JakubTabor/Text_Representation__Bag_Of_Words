@@ -4,3 +4,4 @@ I gonna use Bag of words to work on text and then use pipeline
 # I create new "spam" column based on my category column, I change categories into numbers and then drop useles column
 # Now I can import "train_test_split" and pass df.Message as X variable and df.spam as y, then I check shape of my sets 
 # Then I gonna vectorize my text, so I import "CountVectorizer" and use method "fit_transform" on values in my X_train column 
+# I put also my X_train into array, I check shape and it looks that i have 7788 words in my vocabulary
