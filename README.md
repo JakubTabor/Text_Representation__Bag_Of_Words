@@ -6,3 +6,4 @@ I gonna use Bag of words to work on text and then use pipeline
 # Then I gonna vectorize my text, so I import "CountVectorizer" and use method "fit_transform" on values in my X_train column 
 # I put also my X_train into array, I check shape and it looks that i have 7788 words in my vocabulary
 # I look at words in my vocab and their count
+# Now I gonna use "MultinomialNB" to train my data, so I import it and put my transformed X_train and y_train
