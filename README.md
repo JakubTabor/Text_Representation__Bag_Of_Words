@@ -10,3 +10,4 @@ I gonna use Bag of words to work on text and then use pipeline
 # I also transform my X_test to use it in predictions, so I import "classification_report", create y_pred and put my true and predicted results into it
 # I take two emails of each cateegory, then i transforms emails into vectors and check predictions, it work good
 # Now I import Pipeline and do what i done previous, so put into pipeline vectorizer and naive bayes model
+# Then I train my pipeline, prepare y_pred and print classification report, it was simple operation 
